@@ -1,0 +1,114 @@
+body{
+	font-size: 120%;
+	background-color: #F8F8FF;
+}
+.header{
+	border-bottom: none ;
+	width: 30%;
+	color : white;
+	background : #5F9EA0;
+	border: 1px solid #80C4DE;
+	border-radius: 10px 10px 0px 0px;
+	margin: 50px auto 0px;
+	text-align: center;
+	padding : 20px;
+}
+form,.content{
+	width: 30%;
+	margin: 0px auto;
+	padding: 20px;
+	border: 1px solid #80C4DE;
+	background:  white;
+	border-radius: 0px 0px 10px 10px;
+
+}
+input {
+    border-radius: 5px;
+}
+.input-group{
+	margin: 10px 0px 10px 0px;
+
+}
+.input-group label{
+	display: block;
+	text-align: center;
+	margin: 3px;
+}
+.input-group input{
+	height: 40px;
+	width: 93%;
+	padding: 10px 10px 10px 10px;
+	font-size: 16px;
+	border: 2px solid gray;
+        
+}
+.form{
+    padding: 2px;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    cursor: pointer;
+}
+.btn {
+    margin-left: 95px;
+    width: 195px;
+    text-align: center;
+}
+
+.error{
+	width: 92%;
+	margin: 0px auto;
+	padding: 10px;
+	border: 1px solid #a94442;
+	color: #a94442;
+	border-radius: 5px;
+	text-align: left;
+}
+.success{
+	color: #3c763d;
+	background: #dff0d8;
+	border: 1px solid #3c763d;
+	margin-bottom: 10px;
+}
+
+.qoute-container{
+    margin: 1em;
+    padding: 1em 2em;
+    font-size: 15px;
+    background-color: rgba(0,0,0,.05);
+    border-left: 3px solid #0277bd;
+}
+#quote {
+    font-family: "Open Sans",Helvetica,Arial,sans-serif;
+    position: relative;
+    font-weight: 200;
+    font-style: italic;
+    line-height: 1.35;
+    letter-spacing: .08em;
+}
+#quote:before {
+    font-family: Georgia,serif;
+    font-size: 36px;
+    font-weight: 700;
+    color: #9e9e9e;
+    position: absolute;
+    line-height: 20px;
+    left: -.5em;
+    content: '“';
+}
+.quote-card p {
+  font-size: 19px;
+  line-height: 1.5;
+  margin: 0;
+  max-width: 80%;
+}
+cite {
+  font-size: 16px;
+  margin-top: 10px;
+  display: block;
+  font-weight: 200;
+  opacity: 0.8;
+}
+
+
