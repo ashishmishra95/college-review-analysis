@@ -1,2 +1,3 @@
-# college-review-analysis
-A web application made using JSP servlet that can be used to get the college informations, feedbacks etc . It predicts feedbacks given by user using sentiment analysis to give better results.
+# College-Review-Analysis
+A JSP-Servlet based web application which provides a platform to view college details, provide feedback.
+Along with this, the system will automatically predict the sentiment of the feedback.
