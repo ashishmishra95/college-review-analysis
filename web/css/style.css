@@ -1,0 +1,8 @@
+.btn:hover{
+    cursor: pointer;
+    background-color: white;
+    color: #007bff;
+}
+.form-control{
+    border-radius: 10px;
+}
